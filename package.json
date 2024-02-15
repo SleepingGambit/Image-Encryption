@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cli-handle-unhandled": "^1.1.1",
+    "cli-welcome": "^2.2.2",
+    "meow": "^13.2.0"
+  }
+}
